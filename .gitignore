@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.env
+.env.local
+*.pyc
+__pycache__/
+node_modules/
+.idea/
+
+# docs
+site/
+
+# workflows cache
+.cache/
